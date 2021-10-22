@@ -1,9 +1,6 @@
-# Banking-Management-System
-This is a project based on oops through C++ on Banking Management System
+# Bank Management System Using oops through C++ And Data File Handling
 
---------------------------
-
-By:
+---- Made By:
 
     - Harshitha Reddy Bh
 ***
@@ -19,4 +16,4 @@ By:
 
 
 ---- THANK YOU
-----------------------------
+***
